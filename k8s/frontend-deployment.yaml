@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: frontend-deployment
+  labels:
+    app: screenshot-organizer
+    tier: frontend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: screenshot-organizer
+      tier: frontend
+  template:
+    metadata:
+      labels:
+        app: screenshot-organizer
+        tier: frontend
+    spec:
+      containers:
+      - name: frontend
+        image: abhi40647/screenshot-organizer-frontend:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 80
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"

@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: backend-deployment
+  labels:
+    app: screenshot-organizer
+    tier: backend
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: screenshot-organizer
+      tier: backend
+  template:
+    metadata:
+      labels:
+        app: screenshot-organizer
+        tier: backend
+    spec:
+      containers:
+      - name: backend
+        image: abhi40647/screenshot-organizer-backend:latest
+        imagePullPolicy: Never
+        ports:
+        - containerPort: 3000
+        env:
+        - name: PORT
+          value: "3000"
+        - name: DATABASE_PATH
+          value: "/data/database.json"
+        - name: UPLOAD_DIR
+          value: "/data/uploads"
+        volumeMounts:
+        - name: data-volume
+          mountPath: /data
+        resources:
+          requests:
+            memory: "256Mi"
+            cpu: "250m"
+          limits:
+            memory: "512Mi"
+            cpu: "500m"
+      volumes:
+      - name: data-volume
+        persistentVolumeClaim:
+          claimName: backend-pvc

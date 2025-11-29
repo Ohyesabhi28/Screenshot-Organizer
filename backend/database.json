@@ -1,0 +1,85 @@
+{
+  "screenshots": [
+    {
+      "id": 2,
+      "filename": "1763882207151-20590280.png",
+      "filepath": "uploads\\1763882207151-20590280.png",
+      "extracted_text": "© abhi 05@Abhinav: ~/ros2. ws X  & abhi 05@Abhinav: ~/ros2.ws X + = [=] Xx\nabhi_05@Abhinav:- +o-\" 1-$ ros2 pkg executables testl\n\ntestl even_odd\n\ntestl move_circle\n\ntestl move_square\n\ntestl move_straight\n\ntestl random\n\ntestl temp_pub\n\ntestl temp_sub\n\ntestl turtle_pos\n\nabhi_05@Abhinav:- +o-7 1 -$ ros2 run testl temp_pub\n\n[INFO] [1755953083.770485160] [temperature_publisher]: Publishing temperature: 37.18 °C\n[INFO] [1755953084.751283516] [temperature_publisher]: Publishing temperature: 31.60 °C\n[INFO] [1755953085.750429811] [temperature_publisher]: Publishing temperature: 27.60 °C\n[INFO] [1755953086.7u9688672] [temperature_publisher]: Publishing temperature: 33.25 °C\n[INFO] [1755953087.7505937u44] [temperature_publisher]: Publishing temperature: 27.44 °C\n[INFO] [1755953088.7u9520172] [temperature_publisher]: Publishing temperature: 32.82 °C\n[INFO] [1755953089.751037823] [temperature_publisher]: Publishing temperature: 21.61 °C\n[INFO] [1755953090.7u949349u] [temperature_publisher]: Publishing temperature: 38.87 °C\n[INFO] [1755953091.751170696] [temperature_publisher]: Publishing temperature: 25.68 °C\n[INFO] [1755953092.752237615] [temperature_publisher]: Publishing temperature: 31.45 °C\n[INFO] [1755953093.750192531] [temperature_publisher]: Publishing temperature: 21.80 °C\n[INFO] [1755953094.751146558] [temperature_publisher]: Publishing temperature: 36.08 °C\n[INFO] [1755953095.751085136] [temperature_publisher]: Publishing temperature: 37.20 °C\n[INFO] [1755953096.751294912] [temperature_publisher]: Publishing temperature: 38.60 °C\n[INFO] [1755953097.749956539] [temperature_publisher]: Publishing temperature: 22.42 °C\n[INFO] [1755953098.750668981] [temperature_publisher]: Publishing temperature: 22.67 °C\n[INFO] [1755953099.751184682] [temperature_publisher]: Publishing temperature: 34.73 °C\n[INFO] [1755953100.750327312] [temperature_publisher]: Publishing temperature: 23.87 °C\n[INFO] [1755953101.751049893] [temperature_publisher]: Publishing temperature: 38.29 °C\n[INFO] [1755953102.750465822] [temperature_publisher]: Publishing temperature: 38.76 °C\n[INFO] [1755953103.7u9625120] [temperature_publisher]: Publishing temperature: 23.35 °C\n[INFO] [1755953104.7u9654778] [temperature_publisher]: Publishing temperature: 29.94 °C\n[INFO] [1755953105.749941998] [temperature_publisher]: Publishing temperature: 31.85 °C\n[INFO] [1755953106.750678493] [temperature_publisher]: Publishing temperature: 24.61 °C\n[INFO] [1755953107.749591575] [temperature_publisher]: Publishing temperature: 22.63 °C\n[INFO] [1755953108.7u9567162] [temperature_publisher]: Publishing temperature: 32.12 °C\n[INFO] [1755953109.7u9830740] [temperature_publisher]: Publishing temperature: 32.28 °C\n[INFO] [1755953110.750633133] [temperature_publisher]: Publishing temperature: 32.56 °C\n[INFO] [1755953111.750916063] [temperature_publisher]: Publishing temperature: 23.25 °C\n[INFO] [1755953112.750314527] [temperature_publisher]: Publishing temperature: 29.00 °C",
+      "tags": [
+        "terminal"
+      ],
+      "perceptual_hash": "25e35d26d9d67f9f99bc639a79a86405",
+      "width": 1919,
+      "height": 1079,
+      "created_at": "2025-11-23T07:17:00.564Z"
+    },
+    {
+      "id": 1,
+      "filename": "1763882181606-753619394.png",
+      "filepath": "uploads\\1763882181606-753619394.png",
+      "extracted_text": "Status - Codeforces - Brave - [=] X\n< C @ [0% codeforces.com/problemset/status?my=on el A ®oO0BE ke =\n28 New Tab Search ASUS Software Port... MyASUS Software -... > Explore - LeetCode studies All Bookmarks\na\nin) | LEE\nL§s CODEFORCES abhinavnair2nts | Logout\nSponsored by TON\nL4 HOME TC a\n® a By abhinavnair2nt5, contest: Codeforces Round 267 (Div. 2), problem: (A) George and Accommodation, Accepted, #, Copy 0 E\nimport java.util.Scanner; |\nfriends\n® MAIN ACMSGUI . po is only\npublic class GeorgeAndAccommodation\nContest st: public static void main(String[] args) { 4\n# Scanner sc - new Scanner (System.in); Memory\n33679267 int n = sc.nextInt(); 1100 KB\nint count = 0;\n33679131 1600 KB\n| for (int i = 0; i < n; i++) {\n33653820! ST = Se EAT) 1800 KB\n® 33641864 03 @ = SeAEiEED); 2100 KB\n[o] 33622032 if (@-p>=2) { 1700 KB\ncount++;\n33621276+ } 300 KB\n33621266! y 0 KB\n(5 33608314; System.out.println(count); 1400 KB\nEm 1 sc.close();\nfic | 33608260; N ¥ 100 KB\nW 33605064; 1000 KB\n—Judgement Protocol\n33605053 1000 KB\nS 23605043 Test: #1, time: 202 ms., memory: 796 KB, exit code: 0, checker exit code: 0, verdict: OK DE\nb— Input\nB\n33603885 0 KB\n33584366. 2 1300 KB\nOutput\n° 33571075  ¢ 1600 KB ()\n33553694¢ pnswer 1000 KB *\nP Checker Log\nin 33552673 a 1300 KB\ne 33530528 1100 KB\nTest: #2, time: 281 ms., memory: 972 KB, exit code: 0, checker exit code: 0, verdict: OK v\n33520604, © 2200 KB\n+\n335077312 Aug/22/2025 23:577TC+53 ‘abhinavnair2nts 734A = Anton and Danik Java 21 ‘Accepted 296 ms 1200 KB v",
+      "tags": [
+        "code",
+        "terminal"
+      ],
+      "perceptual_hash": "779e45982c95487ff430600c4b3fceee",
+      "width": 1920,
+      "height": 1080,
+      "created_at": "2025-11-23T07:16:26.199Z"
+    },
+    {
+      "id": 3,
+      "user_id": 3,
+      "filename": "1764043731584-319043663.png",
+      "filepath": "uploads\\1764043731584-319043663.png",
+      "extracted_text": "& Camera\n= Detection\nQ Node\nQ GPS Node\noff Fusion Node\na Communication\nGround\n== Control",
+      "tags": [
+        "general"
+      ],
+      "perceptual_hash": "1bb08173179844d273cfc88aede500da",
+      "width": 840,
+      "height": 1664,
+      "created_at": "2025-11-25T04:08:53.212Z"
+    },
+    {
+      "id": 4,
+      "user_id": 3,
+      "filename": "1764044103275-842698630.png",
+      "filepath": "uploads\\1764044103275-842698630.png",
+      "extracted_text": "Uneven Throughput Q\n= a\nLack of Foresight\nUR",
+      "tags": [
+        "general"
+      ],
+      "perceptual_hash": "da19f29272d2aceadf3fe18547974d92",
+      "width": 2088,
+      "height": 1092,
+      "created_at": "2025-11-25T04:15:04.303Z"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "password": "e5857b335afdf35ca81a110bc81f38682f8a89892cc597f5398dfef82d42b513",
+      "name": "abc",
+      "token": "a00bbfa305ac03fbb599716eaaf3f87ded9b26076e9772c787bc448a0c68c3a7",
+      "created_at": "2025-11-23T07:24:08.692Z"
+    },
+    {
+      "id": 2,
+      "email": "abcd@gmail.com",
+      "password": "655ff70dc0e14fb888dae6f6efb2a7c84810b08b9a7bca73f0b9efa053139600",
+      "name": "abcd",
+      "token": "9fe4a089094d8c9d810e2083f7274fa6cb81700a1ae56214e3716490e3c2f835",
+      "created_at": "2025-11-23T07:24:50.345Z"
+    },
+    {
+      "id": 3,
+      "email": "Ab@gmail.com",
+      "password": "1c7b337fa37c460da009c7b64a369354c41079547059f7dfe2638f027c3b9d66",
+      "name": "Abhinav",
+      "token": "15ff712a8b25885f1d5342923c34b8ee59d3c26bee34ed952f2d71252966b187",
+      "created_at": "2025-11-23T07:27:39.021Z"
+    }
+  ]
+}
