@@ -91,26 +91,6 @@ minikube service frontend-service
 - `DELETE /api/screenshots/:id` - Delete a screenshot
 - `GET /api/search?q=query` - Search screenshots by text content
 
-## 🤔 Why I Built This
-
-I take a lot of screenshots - code snippets, error messages, funny tweets, you name it. But finding them later? Nightmare. I wanted something that could actually understand what's in my screenshots and let me search through them like I search through my code.
-
-Plus, I wanted to learn more about OCR, image processing, and Kubernetes deployments. This project scratches all those itches.
-
-## 🐛 Known Issues
-
-- OCR works best with clear, high-contrast text
-- Large images might take a moment to process
-- Duplicate detection isn't perfect (but it's pretty good!)
-
-## 🤝 Contributing
-
-Found a bug? Have an idea? PRs are welcome! This is a learning project, so don't be shy.
-
-## 📝 License
-
-MIT - Do whatever you want with it.
-
 ---
 
 **Built by [@Ohyesabhi28](https://github.com/Ohyesabhi28)**
